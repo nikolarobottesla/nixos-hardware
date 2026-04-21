@@ -200,6 +200,7 @@
           gpd-win-mini-2024 = import ./gpd/win-mini/2024;
           hp-elitebook-2560p = import ./hp/elitebook/2560p;
           hp-elitebook-830g6 = import ./hp/elitebook/830/g6;
+          hp-elitebook-840g9 = import ./hp/elitebook/840/g9;
           hp-elitebook-845g7 = import ./hp/elitebook/845/g7;
           hp-elitebook-845g8 = import ./hp/elitebook/845/g8;
           hp-elitebook-845g9 = import ./hp/elitebook/845/g9;
